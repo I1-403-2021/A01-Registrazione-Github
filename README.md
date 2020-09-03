@@ -6,9 +6,9 @@
 
 2. Creare l'account personale introducendo i propri dati:
 	
-	1. Lo username **deve assolutamente** essere nella forma **```NomeCognome```**
-	2. L'indirizzo email **deve assolutamente essere quello di scuola** (**```nome.cognome@samtrevano.ch```**)
-	3. Annotate la password in un posto sicuro, dovrete riutilizzarla per accedere a github
+	- Lo username **deve assolutamente** essere nella forma **```NomeCognome```**
+	- L'indirizzo email **deve assolutamente essere quello di scuola** (**```nome.cognome@samtrevano.ch```**)
+	- Annotate la password in un posto sicuro, dovrete riutilizzarla per accedere a github
 
 	![](img/img2.png)
 
