@@ -6,8 +6,8 @@
 
 2. Creare l'account personale introducendo i propri dati:
 	
-	- Lo username **deve assolutamente** essere nella forma **NomeCognome**
-	- L'indirizzo email **deve assolutamente essere quello di scuola** (**nome.cognome@samtrevano.ch**)
+	- Lo username **deve assolutamente** essere nella forma **```NomeCognome```**
+	- L'indirizzo email **deve assolutamente essere quello di scuola** (**```nome.cognome@samtrevano.ch```**)
 
 	![](img/img2.png)
 
